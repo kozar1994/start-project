@@ -1,0 +1,23 @@
+{
+  "name": "modus_versus_cover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": ".node_modules/.bin/gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.18.6",
+    "del": "^2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.0"
+  }
+}
